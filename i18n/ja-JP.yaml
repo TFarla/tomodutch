@@ -1,6 +1,8 @@
 selectLanguage:
   other: 言語
 
+Translations: "This article is available in the following languages"
+
 Articles:
   All: "全て"
   Latest: "最新記事"
@@ -10,3 +12,7 @@ Articles:
 Projects:
   Title: "プロジェクト"
   Source: "ソース"
+
+# language codes
+"ja-jp": "Japanese"
+"en-us": "English (United States)"
