@@ -4,6 +4,7 @@ languages:
   ja-JP:
     contentDir: content/ja
     languageCode: "ja-JP"
+    giscusLang: "ja"
     LanguageName: 日本語 (Japanese)
     title: "友ダッチ"
     params:
@@ -18,6 +19,7 @@ languages:
   en-US:
     contentDir: content/en
     languageCode: "en-US"
+    giscusLang: "en"
     LanguageName: 英語 (English)
     title: "友ダッチ"
     params:
@@ -88,7 +90,8 @@ params:
 
     giscus:
       repo: TFarla/tomodutch
-      id: R_kgDOHU0a4g=
+      id: R_kgDOHU0a4g
+      mapping: "url"
       category:
         name: Announcements
         id: DIC_kwDOHU0a4s4CPFbC
