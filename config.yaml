@@ -21,7 +21,7 @@ languages:
     menu:
       header:
         - name: Articles
-          url: "/articles/"
+          url: "/en-us/articles/"
       footer:
         - name: RSS
           url: "/index.xml"

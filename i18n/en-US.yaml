@@ -4,6 +4,8 @@ selectLanguage:
 Articles:
   All: "View all"
   Latest: "Latest articles"
+  Search:
+    Placeholder: "Search for anything..."
 
 Projects:
   Title: "Projects"

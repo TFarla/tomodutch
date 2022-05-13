@@ -4,6 +4,8 @@ selectLanguage:
 Articles:
   All: "全て"
   Latest: "最新記事"
+  Search:
+    Placeholder: "検索"
 
 Projects:
   Title: "プロジェクト"
