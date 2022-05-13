@@ -6,8 +6,15 @@ Translations: "This article is available in the following languages"
 Articles:
   All: "View all"
   Latest: "Latest articles"
+  Found: "article found."
+  ReadingTime:
+    one: "1 minute to read"
+    other: "{{.Count}} minutes to read"
   Search:
     Placeholder: "Search for anything..."
+
+Author:
+  By: "By {{ . }}"
 
 Projects:
   Title: "Projects"

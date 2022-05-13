@@ -6,6 +6,8 @@ languages:
     languageCode: "ja-JP"
     LanguageName: 日本語 (Japanese)
     title: "友ダッチ"
+    params:
+      dateFormat: ":date_long"
     menu:
       header:
         - name: 記事
@@ -18,6 +20,8 @@ languages:
     languageCode: "en-US"
     LanguageName: 英語 (English)
     title: "友ダッチ"
+    params:
+      dateFormat: ":date_long"
     menu:
       header:
         - name: Articles
@@ -44,9 +48,10 @@ params:
   # Default to true
   enableFootnotes: true
   
-  siteName: "Hugo Tania is Amazing"
-  siteDesc: "Hugo is Absurdly Fast!"
-  author: "Hugo Tania"
+  siteName: ""
+  siteDesc: ""
+  dateFormat: ":date_full"
+  author: "Thomas"
 
   colorScheme:
     # Enable toggle colorScheme
@@ -65,7 +70,7 @@ params:
     dev-to:
     email:
     facebook:
-    github:
+    github: https://github.com/TFarla
     instagram:
     linkedin:
     medium:
@@ -78,15 +83,15 @@ params:
   
   # Comments settings
   comments:
-    enabled: false
+    enabled: true
     provider: giscus
 
     giscus:
-      repo: WingLim/hugo-tania
-      id: MDEwOlJlcG9zaXRvcnkzMTYyNjQzMDc=
+      repo: TFarla/tomodutch
+      id: R_kgDOHU0a4g=
       category:
-        name: Comments
-        id: DIC_kwDOEtnPc84B_WKP
+        name: Announcements
+        id: DIC_kwDOHU0a4s4CPFbC
 
 menu:
   header:

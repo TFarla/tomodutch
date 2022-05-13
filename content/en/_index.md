@@ -1,1 +1,1 @@
-yahoo
+Welcome to the Tomodutch blog. Tomodutch is a Japanese play on words where 友 means friend and 達 sounds a lot like "Dutch"
