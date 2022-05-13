@@ -1,0 +1,10 @@
+selectLanguage:
+  other: Select language
+
+Articles:
+  All: "View all"
+  Latest: "Latest articles"
+
+Projects:
+  Title: "Projects"
+  Source: "Source"
