@@ -24,6 +24,9 @@ Interestingly enough the translation service [deepl.com](https://www.deepl.com/t
 
 And to top it all off there's only a [single repository] on github that uses Esperanto which has 629 forks for no apparent reason because the README only states "HelperScript". Which I don't find particularly helpful at all.
 
+Update:
+I took it upon myself to write a [PostCSS plugin for Esperanto](https://github.com/tomodutch/postcss-esperanto-stylesheets). Help would be much appreciated
+
 [Esperanto speakers]: https://en.wikipedia.org/wiki/Esperanto#:~:text=With%20up%20to%20two%20million,constructed%20language%20in%20the%20world.
 [UML aficionado]: https://codemanship.wordpress.com/2020/04/06/is-uml-esperanto-for-programmers/
 [Programming in Esperanto is challenging]: https://www.reddit.com/r/Esperanto/comments/ju0157/programming_might_be_the_biggest_obstacle/
