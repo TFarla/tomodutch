@@ -72,7 +72,7 @@ params:
     dev-to:
     email:
     facebook:
-    github: https://github.com/TFarla
+    github: https://github.com/tomodutch
     instagram:
     linkedin:
     medium:
@@ -89,7 +89,7 @@ params:
     provider: giscus
 
     giscus:
-      repo: TFarla/tomodutch
+      repo: tomodutch/tomodutch
       id: R_kgDOHU0a4g
       mapping: "url"
       category:
