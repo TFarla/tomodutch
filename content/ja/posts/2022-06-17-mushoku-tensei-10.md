@@ -15,6 +15,8 @@ big events:
 - buy house -> creepy doll that can move on its own
 - erinazu is shilfy's grandmother
 - duel against luke. Maybe that's because he was in love with Shilfy?
+- letter from Paulo. Rujierudo and sisters are coming to Rudi
+- nanahoshi attempts suicide
 
 Impression:
 
