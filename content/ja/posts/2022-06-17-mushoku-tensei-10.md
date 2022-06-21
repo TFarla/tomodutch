@@ -17,6 +17,9 @@ big events:
 - duel against luke. Maybe that's because he was in love with Shilfy?
 - letter from Paulo. Rujierudo and sisters are coming to Rudi
 - nanahoshi attempts suicide
+- Cliff helps nanahoshi with her 研究 and they have a breakthrough 
+- Norun hates Rudi because of that bar fight with Paulo
+- Ruierdo talks about Alice. He urges Rudi to listen to her story next time they meet. Rudi starts to think his marriage may have been a mistake
 
 Impression:
 
